@@ -7,7 +7,7 @@ namespace LaptopSystem.Web.Models
 {
     public class LaptopViewModel
     {
-        public int Id { get; set; }
+        public int Id { get; set; } 
 
         public string Manufacturer { get; set; }
 
